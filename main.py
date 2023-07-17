@@ -44,11 +44,12 @@ while not board.is_game_over():
         move = chess.Move.from_uci(player_move)
         board.push(move)
         print("Your move:", move)
+        make_computer_move(board, engine)
     else:
         print("Invalid move. Try again.")
 
     # Make the computer's move using Stockfish
-    make_computer_move(board, engine)
+    
 
 # Game over
 print("Game over. Result:", board.result())
