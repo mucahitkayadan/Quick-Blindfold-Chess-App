@@ -15,7 +15,7 @@ Installation
 
 4.  Change to the project directory:
 
-    cd your-repo
+    cd Quick-Blindfold-Chess-App
 
 6.  Install the required dependencies:
 
