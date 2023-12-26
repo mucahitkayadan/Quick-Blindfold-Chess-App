@@ -37,7 +37,7 @@ Usage
 3.  Make sure you have a microphone connected to your system.
 4.  When prompted, speak your move into the microphone using standard algebraic notation (e.g., "e2e4").
 5.  The program will validate your move, make it on the chessboard, and then make a move for the computer using Stockfish.
-6.  The game will continue until it reaches a conclusion.
+6.  The game will continue until it concludes.
 
 Contributing
 ------------
