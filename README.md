@@ -11,7 +11,7 @@ Installation
 1.  Make sure you have Python 3 installed on your system.
 2.  Clone the project repository:
 
-    git clone [[https://github.com/your-username/your-repo.git](https://github.com/mucahitkayadan/Quick-Blindfold-Chess-App)](https://github.com/mucahitkayadan/Quick-Blindfold-Chess-App)
+    git clone `https://github.com/mucahitkayadan/Quick-Blindfold-Chess-App.git`
 
 4.  Change to the project directory:
 
